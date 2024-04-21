@@ -1,9 +1,9 @@
 # quA.Mik
 
-Greetings! 👋 I'm Anudeep Raj Kannur, a versatile creative mind from India 🇮🇳. Welcome to my coding haven where art meets technology.
+Greetings! 👋 I'm quA.Mik, a versatile creative mind from India 🇮🇳. Welcome to my coding haven where art meets technology.
 
 ## About Me
-- 🎨 Animator | 🎭 Artist | 💻 Code Creator
+- 🎨 Animator | 🎭 Artist | 💻 Code Creator | 📝 Writer
 - 📚 Founder of [@ProsePinnacle](https://www.instagram.com/prosepinnacle/) - Nurturing writers to new heights.
 
 ## Today's Date: 21-04-2024
