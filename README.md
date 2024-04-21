@@ -11,9 +11,8 @@ Greetings! 👋 I'm quA.Mik, a versatile creative mind from India 🇮🇳. Welc
 ### Current Projects:
 |    |    |
 |----|----|
-| **CryptoPredictor-ML** | **Sentiment-Stock-Prediction** |
-| **StockPredictorApp** | **FoodieVision** |
-| **Traffic-Sign-Recognition** |  **plant-disease-recognition**  |
+| **Customer-Support-Chat-Sentiment-Analysis** | **Twitter-Sentiment-Analysis** |
+| **Product-Review-Sentiment-Analysis** | **webscaper** |
 
 ### What's Cooking?
 I'm currently working on these basic projects, setting the foundation for more unique and exciting endeavors. Stay tuned for coding wonders in the making!
